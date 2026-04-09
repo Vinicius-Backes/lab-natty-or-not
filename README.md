@@ -12,7 +12,7 @@ Utilizei o ChatGPT para gerar a estrutura do e-book, organizar os capítulos e d
 ## 🚀 Resultados
 O e-book resultante é um material direto e útil, com dicas práticas que podem ser aplicadas imediatamente. Ele oferece valor tanto para quem busca melhorar a rotina quanto para quem deseja entender melhor como controlar o estresse.
 
-file:///C:/Users/Vinicius/Downloads/Ebook%20Vida%20Menos%20Estressante.pdf
+[Baixar o e-book]https://drive.google.com/file/d/19o6xavQK9A7pmYBLCYZEUMju3k1zZbZ9/view?usp=sharing
 
 ## 💭 Reflexão
 A criação deste e-book mostrou como a IA pode ser uma ferramenta poderosa para organizar ideias e produzir conteúdo relevante de forma rápida. Além disso, reforçou a importância de temas como saúde mental e equilíbrio na vida moderna.
